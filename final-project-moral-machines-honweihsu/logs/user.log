@@ -1,0 +1,33 @@
+======================================
+# User Audit
+======================================
+- % SAVED AFTER 3 RUNS
+cat: 1.00
+child: 1.00
+homeless: 1.00
+overweight: 1.00
+passengers: 1.00
+unemployed: 1.00
+bird: 0.67
+animal: 0.63
+dog: 0.50
+female: 0.50
+ferret: 0.50
+pregnant: 0.50
+green: 0.46
+red: 0.38
+average: 0.29
+human: 0.28
+adult: 0.25
+male: 0.20
+athletic: 0.00
+baby: 0.00
+ceo: 0.00
+doctor: 0.00
+pedestrians: 0.00
+pet: 0.00
+programmer: 0.00
+senior: 0.00
+you: 0.00
+--
+average age: 40.00
